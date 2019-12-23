@@ -19,14 +19,10 @@
 - name: 社区资讯
   icon: linecons-doc
   links: 
-    - title: PMCAFF
-      logo: /assets/images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description: 国内最大的PM社区
     - title: V2EX
       logo: /assets/images/logos/v2ex.png
       url: https://v2ex.com/
-      description: V2EX 是一个关于分享和探索的地方     
+      description: 国内科技圈摸鱼     
     - title: 今日热榜
       logo: /assets/images/logos/today.png
       url: https://tophub.today/
@@ -38,7 +34,13 @@
     - title: 36Kr
       logo: /assets/images/logos/36kr.png
       url: http://36kr.com/
-      description: 创投资讯      
+      description: 最新创投资讯
+    - title: PMCAFF
+      logo: /assets/images/logos/pmcaff.png
+      url: http://www.pmcaff.com/
+      description: 国内最大的PM社区
+       
+           
       
 - name: 购物指南
   icon: linecons-money
@@ -46,7 +48,22 @@
     - title: 少数派
       logo: /assets/images/logos/sspai.png
       url: https://sspai.com/
-      description: 国内最大的PM社区           
+      description: 电子消费指南
+    - title: 装备前线
+      logo: /assets/images/logos/zfrontier.png
+      url: https://www.zfrontier.com/
+      description: 数码,外设发烧社区  
+    - title: 好物商店
+      logo: /assets/images/logos/coolbuy.png
+      url: https://coolbuy.com/
+      description: 玩物丧志
+    - title: 尖叫设计
+      logo: /assets/images/logos/wowdsgn.png
+      url: https://wowdsgn.com/
+      description: 高端家具设计      
+   
+        
+                 
       
 
 
@@ -73,7 +90,17 @@
     - title: OI Wiki
       logo: /assets/images/logos/oiwiki.png
       url: https://oi-wiki.org/
-      description: 免费开放且持续更新的OI编程站点      
+      description: 免费开放且持续更新的OI编程站点
+    - title: Codecademy
+      logo: /assets/images/logos/codecademy.png
+      url: https://www.codecademy.com/
+      description: 适合新手的在线学习编程网站
+    - title: IFTTT
+      logo: /assets/images/logos/ifttt.png
+      url: https://ifttt.com/
+      description: Every thing works better together     	
+            
+            
 
 - name: 设计灵感
   icon: linecons-diamond
@@ -106,6 +133,11 @@
       logo: /assets/images/logos/lanhu.png
       url: https://lanhuapp.com/
       description: 高效的产品设计协作平台
+    - title: 稿定设计
+      logo: /assets/images/logos/gaoding.png
+      url: https://www.gaoding.com/
+      description: 多场景视觉在线设计平台     
+      
       
               
           
@@ -140,7 +172,12 @@
     - title: Gtmetrix
       logo: /assets/images/logos/gtmetrix.png
       url: https://gtmetrix.com/
-      description: 网站SEO指数测评    
+      description: 网站SEO指数测评
+    - title: AntV
+      logo: /assets/images/logos/antv.png
+      url: https://antv.vision/
+      description: 蚂蚁金服数据可视化解决方案       
+         
 
 
 
