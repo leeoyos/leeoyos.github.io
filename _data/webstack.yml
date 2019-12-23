@@ -18,23 +18,38 @@
     - title: PMCAFF
       logo: /assets/images/logos/pmcaff.png
       url: http://www.pmcaff.com/
-      description: Popular organization of China's first product manager, focusing on Internet products 
+      description: Popular organization of China's first product manager, focusing on Internet products
+    - title: V2EX
+      logo: /assets/images/logos/pmcaff.png
+      url: https://v2ex.com/
+      description: Popular organization of China's first product manager, focusing on Internet products       
+      
+
+
+
          
 - name: 技术研发 DEV
   icon: linecons-database
   links: 
     - title: Leetcode
       logo: /assets/images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
-      description:    
+      url: https://leetcode-cn.com/
+      description: 
+    - title: Github
+      logo: /assets/images/logos/pmcaff.png
+      url: https://github.com/
+      description:         
     - title: vultr
       logo: /assets/images/logos/pmcaff.png
-      url: http://www.pmcaff.com/
+      url: https://www.vultr.com/?ref=8349149
       description:  
-      - title: Cloudflare
+    - title: Cloudflare
       logo: /assets/images/logos/pmcaff.png
-      url: cloudflare.com
+      url: https://cloudflare.com
       description: 
+
+
+
 
 
 
