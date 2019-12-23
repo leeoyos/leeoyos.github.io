@@ -10,78 +10,43 @@
       url: https://www.pandawish.xyz/purchase?status=register&invitationCode=5LpaDHHTnkD7EoVejPaQCg%3D%3D
       description: The fastest and most stable VPN, YouTube 1080P stress free
 
+    
+
 - name: 社区资讯 Community
   icon: linecons-doc
   links: 
     - title: PMCAFF
       logo: /assets/images/logos/pmcaff.png
       url: http://www.pmcaff.com/
-      description: Popular organization of China's first product manager,focusing on Internet products
+      description: Popular organization of China's first product manager, focusing on Internet products
     - title: V2EX
       logo: /assets/images/logos/pmcaff.png
       url: https://v2ex.com/
-      description:       
+      description: Popular organization of China's first product manager, focusing on Internet products       
+      
+
+
+
          
-- name: 技术研发 Developer
+- name: 技术研发 DEV
   icon: linecons-database
   links: 
     - title: Leetcode
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/pmcaff.png
       url: https://leetcode-cn.com/
-      description: none
-    - title: Github
-      logo: /assets/images/logos/google.png
-      url: https://github.com/
-      description: none        
-    - title: vultr
-      logo: /assets/images/logos/google.png
-      url: https://www.vultr.com/?ref=8349149
-      description: none
-    - title: Cloudflare
-      logo: /assets/images/logos/google.png
-      url: https://cloudflare.com
-      description: none
-      
-- name: 数据分析 Analytics
-  icon: linecons-eyes
-  links: 
-    - title: Google Trends
-      logo: /assets/images/logos/google.png
-      url: http://trends.google.com/
       description: 
-    - title: Alexa
-      logo: /assets/images/logos/google.png
-      url: https://www.alexa.com/
+    - title: Github
+      logo: /assets/images/logos/pmcaff.png
+      url: https://github.com/
       description:         
-    - title: Appannie
-      logo: /assets/images/logos/google.png
-      url: https://www.appannie.com/en/
+    - title: vultr
+      logo: /assets/images/logos/pmcaff.png
+      url: https://www.vultr.com/?ref=8349149
       description:  
-    - title: iResearch
-      logo: /assets/images/logos/google.png
-      url: https://www.iresearch.com.cn/
-      description:
-
- - name: 桌面工具 Desktop 
-  icon: linecons-desktop
-  links: 
-    - title: StarUML
-      logo: /assets/images/logos/google.png
-      url: http://staruml.io/
-      description: Mac UML tool
-    - title: uTools
-      logo: /assets/images/logos/google.png
-      url: https://u.tools/index.html
-      description: 你的生产力工具集      
-    - title: MacDown
-      logo: /assets/images/logos/google.png
-      url: https://www.appannie.com/en/
-      description: The open source Markdown editor for macOS.
-    - title: Motrix
-      logo: /assets/images/logos/google.png
-      url: https://motrix.app/
-      description: A full-featured download manager
-          
+    - title: Cloudflare
+      logo: /assets/images/logos/pmcaff.png
+      url: https://cloudflare.com
+      description: 
 
 
 
@@ -151,4 +116,3 @@
       url: http://eux.baidu.com/
       logo: /assets/images/logos/euxbaidu.png
       description: 百度企业产品用户体验中心
-   
