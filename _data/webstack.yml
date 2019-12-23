@@ -156,23 +156,23 @@
     - title: Google Trends
       logo: /assets/images/logos/googletrends.png
       url: http://trends.google.com/
-      description: 
+      description: Google全球搜索趋势
     - title: Alexa
       logo: /assets/images/logos/alexa.png
       url: https://www.alexa.com/
-      description:         
+      description: 网站流量数据        
     - title: Appannie
       logo: /assets/images/logos/appannie.png
       url: https://www.appannie.com/en/
-      description:  
+      description: 全球App数据表现
     - title: iResearch
       logo: /assets/images/logos/iresearch.png
       url: https://www.iresearch.com.cn/
-      description:
+      description: 艾瑞行业报告
     - title: Gtmetrix
       logo: /assets/images/logos/gtmetrix.png
       url: https://gtmetrix.com/
-      description: 网站SEO指数测评
+      description: 网站SEO指数
     - title: AntV
       logo: /assets/images/logos/antv.png
       url: https://antv.vision/
@@ -188,7 +188,7 @@
     - title: StarUML
       logo: /assets/images/logos/staruml.png
       url: http://staruml.io/
-      description: Mac UML tool
+      description: Mac下UML建模工具
     - title: uTools
       logo: /assets/images/logos/utools.png
       url: https://u.tools/index.html
@@ -196,11 +196,11 @@
     - title: MacDown
       logo: /assets/images/logos/macdown.png
       url: https://www.appannie.com/en/
-      description: The open source Markdown editor for macOS.
+      description: Mac开源的Markdown编辑器
     - title: Motrix
       logo: /assets/images/logos/motrix.png
       url: https://motrix.app/
-      description: A full-featured download manager
+      description: 开源的多协议下载器
 
 
 
