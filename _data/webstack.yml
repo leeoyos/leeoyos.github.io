@@ -49,7 +49,25 @@
       description: 
 
 
-
+- name: 数据分析 Analytics
+  icon: linecons-eyes
+  links: 
+    - title: Google Trends
+      logo: /assets/images/logos/google.png
+      url: http://trends.google.com/
+      description: 
+    - title: Alexa
+      logo: /assets/images/logos/google.png
+      url: https://www.alexa.com/
+      description:         
+    - title: Appannie
+      logo: /assets/images/logos/google.png
+      url: https://www.appannie.com/en/
+      description:  
+    - title: iResearch
+      logo: /assets/images/logos/google.png
+      url: https://www.iresearch.com.cn/
+      description:
 
 
 
