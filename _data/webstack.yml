@@ -9,6 +9,10 @@
       logo: /assets/images/logos/pandavpn.png
       url: https://www.pandawish.xyz/purchase?status=register&invitationCode=5LpaDHHTnkD7EoVejPaQCg%3D%3D
       description: 最稳定高速的梯子,Youtube支持1080P
+    - title: ProductHunt
+      logo: /assets/images/logos/google.png
+      url: https://www.producthunt.com/
+      description: 发现全球最新的产品     
 
     
 
@@ -23,8 +27,10 @@
       logo: /assets/images/logos/pmcaff.png
       url: https://v2ex.com/
       description: V2EX 是一个关于分享和探索的地方     
-      
-
+    - title: 今日热榜
+      logo: /assets/images/logos/pmcaff.png
+      url: https://tophub.today/
+      description: 整合了主流资讯媒体的榜单
 
 
          
@@ -32,21 +38,25 @@
   icon: linecons-database
   links: 
     - title: Leetcode
-      logo: /assets/images/logos/pmcaff.png
+      logo: /assets/images/logos/google.png
       url: https://leetcode-cn.com/
-      description: 
+      description: 刷题必备
     - title: Github
-      logo: /assets/images/logos/pmcaff.png
+      logo: /assets/images/logos/google.png
       url: https://github.com/
-      description:         
+      description: 全球最大的开源网站       
     - title: vultr
-      logo: /assets/images/logos/pmcaff.png
+      logo: /assets/images/logos/google.png
       url: https://www.vultr.com/?ref=8349149
-      description:  
+      description: 性价比很高的云服务商
     - title: Cloudflare
-      logo: /assets/images/logos/pmcaff.png
+      logo: /assets/images/logos/google.png
       url: https://cloudflare.com
-      description: 
+      description: 域名安全,SSL证书服务商
+    - title: OI Wiki
+      logo: /assets/images/logos/google.png
+      url: https://oi-wiki.org/
+      description: 免费开放且持续更新的OI编程站点      
 
 
 
