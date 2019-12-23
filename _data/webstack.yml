@@ -50,7 +50,7 @@
 
 
 - name: 数据分析 Analytics
-  icon: linecons-eyes
+  icon: linecons-eye
   links: 
     - title: Google Trends
       logo: /assets/images/logos/google.png
@@ -69,7 +69,25 @@
       url: https://www.iresearch.com.cn/
       description:
 
-
+- name: 桌面工具 Desktop 
+  icon: linecons-desktop
+  links: 
+    - title: StarUML
+      logo: /assets/images/logos/google.png
+      url: http://staruml.io/
+      description: Mac UML tool
+    - title: uTools
+      logo: /assets/images/logos/google.png
+      url: https://u.tools/index.html
+      description: 你的生产力工具集      
+    - title: MacDown
+      logo: /assets/images/logos/google.png
+      url: https://www.appannie.com/en/
+      description: The open source Markdown editor for macOS.
+    - title: Motrix
+      logo: /assets/images/logos/google.png
+      url: https://motrix.app/
+      description: A full-featured download manager
 
 - name: UED Team  
   icon: linecons-user
