@@ -1,4 +1,4 @@
-- name: 常用推荐 Recommend  
+- name: 常用推荐  
   icon: linecons-star
   links: 
     - title: Google
@@ -12,7 +12,7 @@
 
     
 
-- name: 社区资讯 Community
+- name: Community
   icon: linecons-doc
   links: 
     - title: PMCAFF
@@ -22,13 +22,13 @@
     - title: V2EX
       logo: /assets/images/logos/pmcaff.png
       url: https://v2ex.com/
-      description: Popular organization of China's first product manager, focusing on Internet products       
+      description:        
       
 
 
 
          
-- name: 技术研发 DEV
+- name: Developer
   icon: linecons-database
   links: 
     - title: Leetcode
@@ -49,7 +49,10 @@
       description: 
 
 
-- name: 数据分析 Analytics
+
+
+
+- name: 数据分析
   icon: linecons-eye
   links: 
     - title: Google Trends
@@ -69,7 +72,10 @@
       url: https://www.iresearch.com.cn/
       description:
 
-- name: 桌面工具 Desktop 
+
+
+
+- name: 桌面工具 
   icon: linecons-desktop
   links: 
     - title: StarUML
@@ -88,6 +94,8 @@
       logo: /assets/images/logos/google.png
       url: https://motrix.app/
       description: A full-featured download manager
+
+
 
 - name: UED Team  
   icon: linecons-user
