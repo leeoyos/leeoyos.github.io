@@ -28,25 +28,66 @@
 
 
          
-- name: 技术研发 DEV
+- name: 技术研发 Developer
   icon: linecons-database
   links: 
     - title: Leetcode
-      logo: /assets/images/logos/pmcaff.png
+      logo: /assets/images/logos/google.png
       url: https://leetcode-cn.com/
       description: 
     - title: Github
-      logo: /assets/images/logos/pmcaff.png
+      logo: /assets/images/logos/google.png
       url: https://github.com/
       description:         
     - title: vultr
-      logo: /assets/images/logos/pmcaff.png
+      logo: /assets/images/logos/google.png
       url: https://www.vultr.com/?ref=8349149
       description:  
     - title: Cloudflare
-      logo: /assets/images/logos/pmcaff.png
+      logo: /assets/images/logos/google.png
       url: https://cloudflare.com
       description: 
+      
+- name: 数据分析 Analytics
+  icon: linecons-eys
+  links: 
+    - title: Google Trends
+      logo: /assets/images/logos/google.png
+      url: http://trends.google.com/
+      description: 
+    - title: Alexa
+      logo: /assets/images/logos/google.png
+      url: https://www.alexa.com/
+      description:         
+    - title: Appannie
+      logo: /assets/images/logos/google.png
+      url: https://www.appannie.com/en/
+      description:  
+    - title: iResearch
+      logo: /assets/images/logos/google.png
+      url: https://www.iresearch.com.cn/
+      description:
+
+ - name: 桌面工具 Desktop 
+  icon: linecons-desktop
+  links: 
+    - title: StarUML
+      logo: /assets/images/logos/google.png
+      url: http://staruml.io/
+      description: Mac UML tool
+    - title: uTools
+      logo: /assets/images/logos/google.png
+      url: https://u.tools/index.html
+      description: 你的生产力工具集      
+    - title: MacDown
+      logo: /assets/images/logos/google.png
+      url: https://www.appannie.com/en/
+      description: The open source Markdown editor for macOS.
+    - title: Motrix
+      logo: /assets/images/logos/google.png
+      url: https://motrix.app/
+      description: A full-featured download manager
+          
 
 
 
