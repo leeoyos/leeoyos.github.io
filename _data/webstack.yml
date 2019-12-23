@@ -24,13 +24,30 @@
       url: http://www.pmcaff.com/
       description: 国内最大的PM社区
     - title: V2EX
-      logo: /assets/images/logos/pmcaff.png
+      logo: /assets/images/logos/v2ex.png
       url: https://v2ex.com/
       description: V2EX 是一个关于分享和探索的地方     
     - title: 今日热榜
-      logo: /assets/images/logos/pmcaff.png
+      logo: /assets/images/logos/today.png
       url: https://tophub.today/
       description: 整合了主流资讯媒体的榜单
+    - title: Medium
+      logo: /assets/images/logos/medium.png
+      url: https://medium.com/
+      description: 优质科技圈文章
+    - title: 36Kr
+      logo: /assets/images/logos/36kr.png
+      url: http://36kr.com/
+      description: 创投资讯      
+      
+- name: 购物指南
+  icon: linecons-money
+  links: 
+    - title: 少数派
+      logo: /assets/images/logos/pmcaff.png
+      url: https://sspai.com/
+      description: 国内最大的PM社区           
+      
 
 
          
@@ -38,26 +55,65 @@
   icon: linecons-database
   links: 
     - title: Leetcode
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/leetcode.png
       url: https://leetcode-cn.com/
       description: 刷题必备
     - title: Github
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/github.png
       url: https://github.com/
       description: 全球最大的开源网站       
     - title: vultr
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/vultr.png
       url: https://www.vultr.com/?ref=8349149
       description: 性价比很高的云服务商
     - title: Cloudflare
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/cloudflare.png
       url: https://cloudflare.com
       description: 域名安全,SSL证书服务商
     - title: OI Wiki
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/oiwiki.png
       url: https://oi-wiki.org/
       description: 免费开放且持续更新的OI编程站点      
 
+- name: 设计灵感
+  icon: linecons-diamond
+  links: 
+    - title: Dribbble
+      logo: /assets/images/logos/dribbble.png
+      url: http://www.dribbble.com/
+      description: 全球优质设计作品
+    - title: IconFont
+      logo: /assets/images/logos/iconfont.png
+      url: http://www.iconfont.cn/
+      description: 阿里巴巴图标库
+    - title: Pixabay
+      logo: /assets/images/logos/pixabay.png
+      url: https://pixabay.com/
+      description: 免费图片,视频       
+    - title: Colorhunt
+      logo: /assets/images/logos/colorhunt.png
+      url: http://www.colorhunt.co/
+      description: 色彩搭配
+    - title: TinyPng
+      logo: /assets/images/logos/tinypng.png
+      url: https://tinypng.com/
+      description: 在线压缩PNG/JPG
+    - title: Pinterest
+      logo: /assets/images/logos/pinterest.png
+      url: https://www.pinterest.com/
+      description: 全球最大的图片分享社区
+    - title: 蓝湖
+      logo: /assets/images/logos/lanhu.png
+      url: https://lanhuapp.com/
+      description: 高效的产品设计协作平台
+      
+              
+          
+      
+            
+         
+            
+      
 
 
 
@@ -66,21 +122,25 @@
   icon: linecons-eye
   links: 
     - title: Google Trends
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/googletrends.png
       url: http://trends.google.com/
       description: 
     - title: Alexa
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/alexa.png
       url: https://www.alexa.com/
       description:         
     - title: Appannie
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/appannie.png
       url: https://www.appannie.com/en/
       description:  
     - title: iResearch
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/iresearch.png
       url: https://www.iresearch.com.cn/
       description:
+    - title: Gtmetrix
+      logo: /assets/images/logos/gtmetrix.png
+      url: https://gtmetrix.com/
+      description: 网站SEO指数测评    
 
 
 
@@ -89,19 +149,19 @@
   icon: linecons-desktop
   links: 
     - title: StarUML
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/staruml.png
       url: http://staruml.io/
       description: Mac UML tool
     - title: uTools
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/utools.png
       url: https://u.tools/index.html
       description: 你的生产力工具集      
     - title: MacDown
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/macdown.png
       url: https://www.appannie.com/en/
       description: The open source Markdown editor for macOS.
     - title: Motrix
-      logo: /assets/images/logos/google.png
+      logo: /assets/images/logos/motrix.png
       url: https://motrix.app/
       description: A full-featured download manager
 
