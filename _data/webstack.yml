@@ -10,23 +10,17 @@
       url: https://www.pandawish.xyz/purchase?status=register&invitationCode=5LpaDHHTnkD7EoVejPaQCg%3D%3D
       description: The fastest and most stable VPN, YouTube 1080P stress free
 
-    
-
 - name: 社区资讯 Community
   icon: linecons-doc
   links: 
     - title: PMCAFF
       logo: /assets/images/logos/pmcaff.png
       url: http://www.pmcaff.com/
-      description: Popular organization of China's first product manager, focusing on Internet products
+      description: Popular organization of China's first product manager,focusing on Internet products
     - title: V2EX
       logo: /assets/images/logos/pmcaff.png
       url: https://v2ex.com/
-      description: Popular organization of China's first product manager, focusing on Internet products       
-      
-
-
-
+      description:       
          
 - name: 技术研发 Developer
   icon: linecons-database
@@ -34,19 +28,19 @@
     - title: Leetcode
       logo: /assets/images/logos/google.png
       url: https://leetcode-cn.com/
-      description: 
+      description: none
     - title: Github
       logo: /assets/images/logos/google.png
       url: https://github.com/
-      description:         
+      description: none        
     - title: vultr
       logo: /assets/images/logos/google.png
       url: https://www.vultr.com/?ref=8349149
-      description:  
+      description: none
     - title: Cloudflare
       logo: /assets/images/logos/google.png
       url: https://cloudflare.com
-      description: 
+      description: none
       
 - name: 数据分析 Analytics
   icon: linecons-eyes
