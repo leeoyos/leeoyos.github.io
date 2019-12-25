@@ -70,7 +70,7 @@
          
 - name: 技术编程
   icon: linecons-database
-  links: 
+  links:
     - title: Leetcode
       logo: /assets/images/logos/leetcode.png
       url: https://leetcode-cn.com/
