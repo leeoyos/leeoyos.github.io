@@ -66,7 +66,8 @@
     - title: 尖叫设计
       logo: /assets/images/logos/wowdsgn.png
       url: https://wowdsgn.com/
-      description: 高端家具设计      
+      description: 高端家具设计
+            
    
         
                  
@@ -104,7 +105,11 @@
     - title: IFTTT
       logo: /assets/images/logos/ifttt.png
       url: https://ifttt.com/
-      description: Every thing works better together     	
+      description: Every thing works better together 
+    - title: Postwoman
+      logo: /assets/images/logos/postwoman.png
+      url: https://postwoman.io/
+      description: 开源API请求构建器          	
             
             
 
@@ -119,6 +124,10 @@
       logo: /assets/images/logos/iconfont.png
       url: http://www.iconfont.cn/
       description: 阿里巴巴图标库
+    - title: Iconfinder
+      logo: /assets/images/logos/iconfinder.png
+      url: https://www.iconfinder.com/
+      description:       
     - title: Pixabay
       logo: /assets/images/logos/pixabay.png
       url: https://pixabay.com/
@@ -142,7 +151,11 @@
     - title: 稿定设计
       logo: /assets/images/logos/gaoding.png
       url: https://www.gaoding.com/
-      description: 多场景视觉在线设计平台     
+      description: 多场景视觉在线设计平台
+    - title: Pixels
+      logo: /assets/images/logos/gaoding.png
+      url: https://www.pexels.com/
+      description: 免费的高质量图片网站           
       
       
               
