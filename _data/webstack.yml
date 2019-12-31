@@ -12,7 +12,16 @@
     - title: ProductHunt
       logo: /assets/images/logos/producthunt.png
       url: https://www.producthunt.com/
-      description: 发现全球最新的产品     
+      description: 发现全球最新的产品
+    - title: Slack
+      logo: /assets/images/logos/slack.png
+      url: https://slack.com/
+      description: 墙外专业的团队协作工具
+    - title: Trello
+      logo: /assets/images/logos/trello.png
+      url: https://trello.com/
+      description: 体验极好的敏捷管理工具
+                       
 
     
 
@@ -43,7 +52,12 @@
       logo: /assets/images/logos/wanqu.png
       url: https://wanqu.co/
       description: 每日推送精选英文文章
-     
+    - title: Indiehackers
+      logo: /assets/images/logos/wanqu.png
+      url: https://indiehackers.net/
+      description: 远程创业社区      
+      
+    
             
        
            
@@ -109,7 +123,18 @@
     - title: Postwoman
       logo: /assets/images/logos/postwoman.png
       url: https://postwoman.io/
-      description: 开源API请求构建器          	
+      description: 开源API请求构建器
+    - title: Stackoverflow
+      logo: /assets/images/logos/stackoverflow.png
+      url: https://stackoverflow.com/
+      description: 强大的技术交流社区
+    - title: Stackshare
+      logo: /assets/images/logos/stackshare.png
+      url: https://stackshare.io/
+      description: 开发者工具和服务分享      
+            
+      
+          	
             
             
 
